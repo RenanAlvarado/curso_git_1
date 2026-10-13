@@ -50,4 +50,4 @@ function soma(a, b) {
 - Tarefa Concluida
   - [x] Tarefa Concluida
 - Tarefa A fazer
-  - [] Tarefa a fazer
+  - [ ] Tarefa a fazer
